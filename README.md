@@ -14,4 +14,4 @@ Este proyecto por petición de un subcrictor, se realizar el raspado de datos co
 Es una herramienta para automatizar y realizar pruebas navegadores Web. También es muy útil para el raspado web y soporta muchos lenguajes ente ellos Python. Con Knime, Python y Selenium nos da la libertad que necesitamos para extraer eficientemente los datos y almacenarlos para analizar el dato.
 
 ### YouTube&reg; con Selenium
-Este proyecto buscar de los links a videos, obtiene la descripción, cuantos me gusta, título, duración del video. Usando Selenium
+Este proyecto raspa de los links de videos y obtiene la descripción, cuantos me gusta, visitas, título y duración del video. Usando [Selenium](https://www.selenium.dev/).
